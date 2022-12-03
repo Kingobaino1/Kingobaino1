@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; Studied Mathematics at Nnamdi Azikiwe University, Awka, Nigeria.
-- 💼 &nbsp; Working as an Assistant Lecturer at Nnamdi Azikiwe University, Awka.
-- 🎓 &nbsp; Currently a student at Microverse.
+- 💼 &nbsp; Worked as an Assistant Lecturer at Nnamdi Azikiwe University, Awka.
+- 🎓 &nbsp; Working as a Fullstack Developer at Smitiv Mobile Singapore.
 - 🌱 &nbsp; Learning more about full-stack development and Machine Learning.
 - 🎓 &nbsp; Obtained M.Sc in Mathematics at Nnamdi Azikiwe University, Awka, Nigeria.
 
